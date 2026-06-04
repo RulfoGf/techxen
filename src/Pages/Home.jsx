@@ -11,11 +11,11 @@ import Testimonial1 from "../Components/Testimonial/Testimonial1";
 
 const Home = () => {
     return (
-        <div className="home-page1">
+        <div className="home-page5">
             <HeroBanner1
                 bgImg="/assets/img/bg/hero1-bg.png"
                 subTitle="TechXen Technology & It Solution"
-                title="Transform Your Business With Next Generation <span class='after'>IT Solutions</span>"
+                title="Transform Your Business  <span class='after'>IT Solutions</span>"
                 content="Welcome to TechXen where we specialise in delivering tailored technology and IT solutions designed to propel your business forward. From streamlining operations to and driving growth."
                 btnName="Get Started Now"
                 btnUrl="/contact"
