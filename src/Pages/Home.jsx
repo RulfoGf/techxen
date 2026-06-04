@@ -14,7 +14,7 @@ const Home = () => {
         <div className="home-page5">
             <HeroBanner1
                 bgImg="/assets/img/bg/hero1-bg.png"
-                subTitle="TechXen Technology & It Solution"
+                subTitle="Test TechXen Technology & It Solution"
                 title="Transform Your Business  <span class='after'>IT Solutions</span>"
                 content="Welcome to TechXen where we specialise in delivering tailored technology and IT solutions designed to propel your business forward. From streamlining operations to and driving growth."
                 btnName="Get Started Now"
